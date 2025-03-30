@@ -26,7 +26,6 @@ GuardianAI is a blockchain-based healthcare platform that securely manages patie
 ## Environment Setup
 Following commands are tested on Linux.
 
-If you want more through instructions, please visit the following [Tutorial](https://github.com/YEASIN49/CSE446-Content/blob/main/Ethereum%20Dapp/README.mdche/) made by Yeasin sir. 
 
 ### Prerequisites
 1. **Install Node Version Manager (nvm):**
