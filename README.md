@@ -7,12 +7,19 @@ GuardianAI is a blockchain-based healthcare platform that securely manages patie
 ## Features
 
 ✅ Decentralized Medical Records – Uses blockchain to securely store and manage patient data, ensuring privacy and ownership.
+
 ✅ AI-Powered Health Assessment – Provides preliminary health insights based on symptoms before doctor consultations.
+
 ✅ Doctor Verification System – Ensures only certified professionals can offer consultations, reducing fraud.
+
 ✅ Smart Contract-Based Payments – Enables transparent and secure transactions without intermediaries.
+
 ✅ Encrypted Data Storage – Protects sensitive medical records using advanced encryption techniques.
+
 ✅ User-Controlled Access – Patients decide who can view or modify their health data.
+
 ✅ Remote Healthcare Access – Allows patients in remote areas to consult verified doctors online.
+
 
 ---
 
